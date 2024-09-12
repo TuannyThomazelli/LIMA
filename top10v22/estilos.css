@@ -1,0 +1,40 @@
+body{
+    background-color: #dab697;
+  
+}
+*{
+    text-align: center;
+
+}
+img{
+    width:70% ;   /*Largura da imagem*/
+    height:70% ;   /*Altura da imagem*/
+    opacity: 75% ;
+    border: 8px solid;
+    border-color: #462f1c;  
+    
+}
+img:hover{
+   opacity: 100%;
+   filter: ;
+}
+#animal{
+    text-align: center;
+    zoom: 1;
+}
+#animal:hover{
+   zoom: 1.25;
+}
+
+
+h1{
+    color:rgb(141, 53, 53);
+    text-align: center;
+}
+h2{
+    color:rgb(182, 62, 62);
+}
+p{
+    color:rgb(85, 20, 20);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
